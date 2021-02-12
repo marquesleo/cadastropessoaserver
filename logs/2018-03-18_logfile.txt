@@ -1,0 +1,2 @@
+2018-03-18 12:15:44.2054 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2018-03-18 12:38:19.9508 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
